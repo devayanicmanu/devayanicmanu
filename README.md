@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @devayanicmanu
-- 👀 I’m interested in coding and reading books
-- 🌱 I’m currently learning python
+-Aspiring Software engineer
+-Java Python C# C++
+-Learning Flutter, Go and JavaScript
+-i upload cute projects for fun
 
 <!---
 devayanicmanu/devayanicmanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
